@@ -1,0 +1,3 @@
+# UD456 | Udacity | GitHub & Collaboration
+
+This course covers the essentials of working with remote repositories. How to connect to a remote repository, get changes from a remote repository, and send changes to a remote repository. Also covers how to work collaboratively. Fork another developer's repository, make changes to it, and then send them a pull request. Also teaches some Git tips and tricks that make working with collaborators a breeze.
